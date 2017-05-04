@@ -10,7 +10,7 @@ matrix:
         - php: 5.6
 
 script:
-    - echo "script section"
+    - echo "script section 2"
 
 branches:
     only:
